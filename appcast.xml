@@ -6,6 +6,15 @@
     <description>Oriel updates</description>
     <language>en</language>
     <item>
+      <title>Oriel 3.0.4</title>
+      <pubDate>Wed, 04 Nov 2026 17:39:20 +0000</pubDate>
+      <sparkle:version>10</sparkle:version>
+      <sparkle:shortVersionString>3.0.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Clicking an email opens it in its own app (Mail, Outlook, Spark, Gmail in your browser and more), and Mail shows it in its main window</p><p>A reply you're writing stays open until you click somewhere else</p><p>AirPods and other devices no longer show twice; with the island open, their card appears just below it, like macOS's own</p><p>Controllers that can't report their battery no longer show 100%</p><p>Liquid Glass can now be clear as water: drag Shade all the way to Clear</p><p>Remixes and edits show the original song's lyrics, and the island steps out of the way of menus faster</p>]]></description>
+      <enclosure url="https://github.com/tiagot2003/oriel-releases/releases/download/v3.0.4/Oriel.dmg" type="application/octet-stream" sparkle:edSignature="isp0fPaC1IvBWbzejR+lzZzmlzGm7UYfZhZVvjxeg80Zp+JE0FNBgewZHJim/bqEfyN45wS3j6p0sGMG/sHaBg==" length="8967703" />
+    </item>
+    <item>
       <title>Oriel 3.0.3</title>
       <pubDate>Fri, 30 Oct 2026 20:05:29 +0000</pubDate>
       <sparkle:version>9</sparkle:version>
