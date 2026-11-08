@@ -6,6 +6,15 @@
     <description>Oriel updates</description>
     <language>en</language>
     <item>
+      <title>Oriel 3.1</title>
+      <pubDate>Sun, 08 Nov 2026 18:50:07 +0000</pubDate>
+      <sparkle:version>11</sparkle:version>
+      <sparkle:shortVersionString>3.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>The island tucks into the notch while you watch videos in full screen, and stays for your music</p><p>When several things happen at once, the most important comes first (calls, then texts), and the rest wait their turn</p><p>Fewer interruptions: keep Claude, timers, downloads and more beside the notch, always or only during a Focus</p><p>A Usage widget shows your Claude and Codex limits right in the island</p><p>Updates now install overnight on their own, and a "What's new" window shows what changed</p><p>Lock screen: with the cover showing, the song moves to the middle, like the iPhone</p><p>Focus changes show your Focus's own icon and colour (custom ones too), and can be turned off</p><p>While you reply to a text, your other unread texts stay in view</p><p>The charging battery is back, filled to your level like iOS 27's</p><p>Calls pick up faster when you click Answer</p><p>AirPods show once, in Oriel's island card</p><p>Live Activities on the lock screen shrink to fit while lyrics show</p><p>A switch to turn off the glow when the island is tucked away</p><p>Starting a video no longer flashes a grey cover over your music</p><p>Fixed a play button that could keep a grey circle around it</p>]]></description>
+      <enclosure url="https://github.com/tiagot2003/oriel-releases/releases/download/v3.1/Oriel.dmg" type="application/octet-stream" sparkle:edSignature="l0RClBnZu60ujRfU+NIQCoWiq4G4asRqfqxGf6rRXJ3t95M6VuOFgVDcgIry/ITPE+gMXmT0xAIxtORq5uE9Cg==" length="9298458" />
+    </item>
+    <item>
       <title>Oriel 3.0.4</title>
       <pubDate>Wed, 04 Nov 2026 17:39:20 +0000</pubDate>
       <sparkle:version>10</sparkle:version>
