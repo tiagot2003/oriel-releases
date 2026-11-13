@@ -6,6 +6,15 @@
     <description>Oriel updates</description>
     <language>en</language>
     <item>
+      <title>Oriel 3.1.1</title>
+      <pubDate>Fri, 13 Nov 2026 10:26:36 +0000</pubDate>
+      <sparkle:version>12</sparkle:version>
+      <sparkle:shortVersionString>3.1.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Swipe two fingers up on a text, a Live Activity or a song's title to send it away</p><p>Swipe two fingers up on the island to hide it in the notch (the music glow can stay); swipe down or click the notch to bring it back</p><p>A hidden island comes back on its own after you've been away for an hour</p><p>Scroll over the calendar with two fingers or your mouse wheel to move between weeks and months</p><p>Share files from the tray to Messages, Mail, Notes and more, not just AirDrop</p><p>Clearer messages when Claude usage needs you to sign in to Claude Code again</p><p>Contact photos only show for the right person (a notification from an app like X no longer borrows a friend's photo)</p><p>A smoother animation when the island tucks into the notch and comes back</p><p>Fixed Live Activities showing as a black card while the island was hidden</p>]]></description>
+      <enclosure url="https://github.com/tiagot2003/oriel-releases/releases/download/v3.1.1/Oriel.dmg" type="application/octet-stream" sparkle:edSignature="ND1Sz1NHxTKGFK8iE9lX2VEhJ7gJ1XyJVlpv8+D0odZ+1DpEaoLx5tMABRmTjhXtCKqbfgksUmjlbRL3riq4Cg==" length="9363085" />
+    </item>
+    <item>
       <title>Oriel 3.1</title>
       <pubDate>Sun, 08 Nov 2026 18:50:07 +0000</pubDate>
       <sparkle:version>11</sparkle:version>
