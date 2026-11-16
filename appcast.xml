@@ -6,6 +6,15 @@
     <description>Oriel updates</description>
     <language>en</language>
     <item>
+      <title>Oriel 3.1.2</title>
+      <pubDate>Mon, 16 Nov 2026 14:55:51 +0000</pubDate>
+      <sparkle:version>13</sparkle:version>
+      <sparkle:shortVersionString>3.1.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>On Macs without a notch and on external screens, the island is now a floating pill, always there to hover for your calendar and more</p><p>The pill shrinks and glows when an app's menus need the space, and steps out of the way if they run under it</p><p>Live Activities curve around the pill's ends when it's compact</p><p>While music plays on the lock screen, the screen stays on (as long as your own display setting allows)</p><p>The full-screen cover appears at once when you lock, without the wallpaper showing through</p>]]></description>
+      <enclosure url="https://github.com/tiagot2003/oriel-releases/releases/download/v3.1.2/Oriel.dmg" type="application/octet-stream" sparkle:edSignature="wyUcecAX0QcVrdn1xFw5MHhNOzuVduRn9WY5zcZSmVrcz3pRqIJu3O5+hUlvKcQeWywIxKeLIld+42hhUx93Bg==" length="9382144" />
+    </item>
+    <item>
       <title>Oriel 3.1.1</title>
       <pubDate>Fri, 13 Nov 2026 10:26:36 +0000</pubDate>
       <sparkle:version>12</sparkle:version>
