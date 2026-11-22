@@ -6,6 +6,15 @@
     <description>Oriel updates</description>
     <language>en</language>
     <item>
+      <title>Oriel 3.1.5</title>
+      <pubDate>Sun, 22 Nov 2026 21:10:41 +0000</pubDate>
+      <sparkle:version>16</sparkle:version>
+      <sparkle:shortVersionString>3.1.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Fixed Spotify album artwork sometimes disappearing a couple of seconds into a song</p><p>The island sits right on your MacBook's notch even when the menu bar is on an external display</p>]]></description>
+      <enclosure url="https://github.com/tiagot2003/oriel-releases/releases/download/v3.1.5/Oriel.dmg" type="application/octet-stream" sparkle:edSignature="O2TVy/qB2U7h9pP1KKyrjVptpvhBxoQf9gNhChxbZiT5cohcrJhhEzyf+VYrhm0rv0p9zxdD5uZraaiNACMeCg==" length="9428496" />
+    </item>
+    <item>
       <title>Oriel 3.1.4</title>
       <pubDate>Fri, 20 Nov 2026 20:32:57 +0000</pubDate>
       <sparkle:version>15</sparkle:version>
