@@ -6,6 +6,15 @@
     <description>Oriel updates</description>
     <language>en</language>
     <item>
+      <title>Oriel 3.1.6</title>
+      <pubDate>Mon, 23 Nov 2026 22:15:09 +0000</pubDate>
+      <sparkle:version>17</sparkle:version>
+      <sparkle:shortVersionString>3.1.6</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Volume and brightness show only in the notch now: macOS's own pop-up no longer appears alongside</p><p>"The built-in display" stays on your MacBook's screen even when an external display has the menu bar</p>]]></description>
+      <enclosure url="https://github.com/tiagot2003/oriel-releases/releases/download/v3.1.6/Oriel.dmg" type="application/octet-stream" sparkle:edSignature="3QL5vxf9IevAMDOeUG9GGyw+w39U2gdSk55iWl0cinzcXf4WaKHKAbZdmw87oyY/0a8gi1pLGVR6rlwEUuVsAg==" length="9453524" />
+    </item>
+    <item>
       <title>Oriel 3.1.5</title>
       <pubDate>Sun, 22 Nov 2026 21:10:41 +0000</pubDate>
       <sparkle:version>16</sparkle:version>
