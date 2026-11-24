@@ -6,6 +6,15 @@
     <description>Oriel updates</description>
     <language>en</language>
     <item>
+      <title>Oriel 3.1.7</title>
+      <pubDate>Tue, 24 Nov 2026 20:41:01 +0000</pubDate>
+      <sparkle:version>18</sparkle:version>
+      <sparkle:shortVersionString>3.1.7</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Volume, brightness, charging and AirPods now glide smoothly back into the notch when they go, instead of vanishing</p>]]></description>
+      <enclosure url="https://github.com/tiagot2003/oriel-releases/releases/download/v3.1.7/Oriel.dmg" type="application/octet-stream" sparkle:edSignature="bjea/xjVxKmVNQ1WRYydHIQwWah0WbyUCctFWBWJJEkg5Ps+OdvLT2IV97vA1Qetlmfmt9pRBqEWnXsBnBpbDA==" length="9457194" />
+    </item>
+    <item>
       <title>Oriel 3.1.6</title>
       <pubDate>Mon, 23 Nov 2026 22:15:09 +0000</pubDate>
       <sparkle:version>17</sparkle:version>
